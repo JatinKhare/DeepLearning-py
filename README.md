@@ -1,5 +1,5 @@
 # DeepLearning-py
  Follow up of the Stanford course on Coursera
  
-# All the python files (related) with proper comments.
+# All the python files (related).
  Results also attached.
