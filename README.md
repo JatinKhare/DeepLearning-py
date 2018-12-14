@@ -1,1 +1,1 @@
-# Open source software library by Google.
+Open source software library by Google.
