@@ -7,3 +7,9 @@ session = tf.Session()
 result = session.run(c)
 print(result)
 session.close(); 
+
+#or
+
+with tf.Session() as session:
+	result = session.run(c)
+	print(result)
