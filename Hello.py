@@ -6,4 +6,4 @@ c = tf.add(a,b)
 session = tf.Session()
 result = session.run(c)
 print(result)
-session.close();
+session.close(); 
