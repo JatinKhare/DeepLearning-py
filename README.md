@@ -1,5 +1,4 @@
-# DeepLearning-py
- Follow up of the Stanford course on Coursera
- 
-# All the python files (related).
- Results also attached.
+# TensorFlow
+Open source software library by Google.
+
+# Basic algorithms with code which provide a good start.
