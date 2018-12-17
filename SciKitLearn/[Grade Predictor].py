@@ -11,4 +11,6 @@ real = [[6],[10]]
 print(np.ceil(pred)-1)
 plt.scatter(marks,grade)
 plt.plot([[40],[98]],np.ceil(pred)-1,'r')
-from sklearn.metrics import accuracy_score
+
+
+
