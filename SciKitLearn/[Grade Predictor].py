@@ -13,3 +13,4 @@ plt.scatter(marks,grade)
 plt.plot([[40],[98]],np.ceil(pred)-1,'r')
 from sklearn.metrics import accuracy_score
 
+![download](https://user-images.githubusercontent.com/44063069/50077265-f03cfa00-0209-11e9-8790-5763fff80dd0.png)
